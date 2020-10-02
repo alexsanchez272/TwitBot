@@ -1,10 +1,5 @@
 # Twitter Bot - Java
-
-### Show some :heart:
-[![GitHub stars](https://img.shields.io/github/stars/nisrulz/twitterbot-java.svg?style=social&label=Star)](https://github.com/nisrulz/twitterbot-java) [![GitHub forks](https://img.shields.io/github/forks/nisrulz/twitterbot-java.svg?style=social&label=Fork)](https://github.com/nisrulz/twitterbot-java/fork) [![GitHub watchers](https://img.shields.io/github/watchers/nisrulz/twitterbot-java.svg?style=social&label=Watch)](https://github.com/nisrulz/twitterbot-java) [![GitHub followers](https://img.shields.io/github/followers/nisrulz.svg?style=social&label=Follow)](https://github.com/nisrulz/twitterbot-java)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/nisrulz.svg?style=social)](https://twitter.com/nisrulz) 
-
-I built this twitter bot to automate few tasks on twitter with respect to GDG New Delhi.
+Little Java twitter Bot application 
 
 ###Steps
 1. Create a file named `twitter4j.properties`, place it right under the `src` folder and update it with credentials from your twitter dashboard.
@@ -16,6 +11,7 @@ I built this twitter bot to automate few tasks on twitter with respect to GDG Ne
     oauth.accessTokenSecret=Your_Access_Token_Secret
     ``` 
 2. Configure and code your twitter bot under the `TwitterBot.java` file.
+3. Run the main method from TwitterBot class
 
 
 Credits
@@ -23,6 +19,8 @@ Credits
 [staticvoidgames](http://staticvoidgames.com/tutorials/howTo/twitterBot) - My starter guide to understanding how to build a twitter bot in java.
 
 [kaffeine](https://kaffeine.herokuapp.com/#!) - Use this to keep your dyno active all the time
+
+[github] nisrulz
 
 License
 =======
